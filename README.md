@@ -8,8 +8,9 @@
 
 # About
 <p>What do you say when you finish a task? <img src="https://github.com/jedithrills/done-project/blob/main/donelogo.png" alt="alt logo" width="100"></p>
-<p>Assign and track your projects efficiently with this easy to use project manager. Increase your productivity and install with these simple steps:</p>
-## Installation
+<p>Assign and track your projects efficiently with this easy to use project manager. Increase your productivity and install in 3 easy steps.</p>
+
+# Installation
 1.
 2.
 3.
