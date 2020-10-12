@@ -18,4 +18,9 @@
 # Demo
 <img src="https://github.com/jedithrills/done-project/blob/main/done%20task.png" alt="done new task"> 
 
+# Credit
+- Nigel Quinlan
+- Aaron Byrom
+- Jane Taas
+
 
