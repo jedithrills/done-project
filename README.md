@@ -5,5 +5,5 @@
 <br>
 <br>
 <h3>About</h3>
-<p>Assign and track your projects efficiently. Increase your productivity with   <img src="https://github.com/jedithrills/done-project/blob/main/donelogo.png" alt="alt logo" width="100">.</p>
+<p>What do you say when you finish a task? <img src="https://github.com/jedithrills/done-project/blob/main/donelogo.png" alt="alt logo" width="100">! Assign and track your projects efficiently with this easy to use project manager. Increase your productivity and download with these simple steps:  </p>
 
