@@ -1,4 +1,7 @@
+<h1 align="center">
+<br>
 ![alt text](https://github.com/jedithrills/done-project/blob/main/donelogo.png)
+  </h1>
 
-Prioritise and organise your to-do list with this simple, convenient Task Manager.
-Assign and track your projects.
+<h4 align="center"> Prioritise and track your projects with this simple, convenient Task Manager.</h4>
+
